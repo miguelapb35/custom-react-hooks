@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/custom-react-hooks/static/js/main.17c7b768.chunk.js",
-    "main.js.map": "/custom-react-hooks/static/js/main.17c7b768.chunk.js.map",
+    "main.js": "/custom-react-hooks/static/js/main.14ee38a7.chunk.js",
+    "main.js.map": "/custom-react-hooks/static/js/main.14ee38a7.chunk.js.map",
     "runtime-main.js": "/custom-react-hooks/static/js/runtime-main.f5efc787.js",
     "runtime-main.js.map": "/custom-react-hooks/static/js/runtime-main.f5efc787.js.map",
     "static/js/2.c5bbdf31.chunk.js": "/custom-react-hooks/static/js/2.c5bbdf31.chunk.js",
     "static/js/2.c5bbdf31.chunk.js.map": "/custom-react-hooks/static/js/2.c5bbdf31.chunk.js.map",
     "index.html": "/custom-react-hooks/index.html",
-    "precache-manifest.5b6dff78914be3a8415ff60a37314095.js": "/custom-react-hooks/precache-manifest.5b6dff78914be3a8415ff60a37314095.js",
+    "precache-manifest.d21a8b2c0c35eca09e0675d6d32609cb.js": "/custom-react-hooks/precache-manifest.d21a8b2c0c35eca09e0675d6d32609cb.js",
     "service-worker.js": "/custom-react-hooks/service-worker.js",
     "static/js/2.c5bbdf31.chunk.js.LICENSE.txt": "/custom-react-hooks/static/js/2.c5bbdf31.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f5efc787.js",
     "static/js/2.c5bbdf31.chunk.js",
-    "static/js/main.17c7b768.chunk.js"
+    "static/js/main.14ee38a7.chunk.js"
   ]
 }
